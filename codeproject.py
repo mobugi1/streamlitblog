@@ -1,7 +1,6 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
-import matplotlib.pyplot as plt
 
 # 페이지 설정
 st.set_page_config(page_title="김예준의 Streamlit 블로그", page_icon="⚾")
